@@ -25,7 +25,7 @@ st.image(image)
 
 
     
-st.title("Modelado de SiStemas Petroleros")
+st.title("Modelado de Sistemas Petroleros")
 page_names = ['Abdiel Levi Aquino Ibarra', 'Horacio Alberto Contreras Navarro', 'Jorge Balcazar Balcazar', 'Juan Armando Romero Guadarrama', 'Lilian Mareni Luna de Anda', 'Marisol Polet Pinzón Sotelo', 'Monica Angelina Solís Sánchez', 'Oscar Augusto González Verde', 'Oscar Cuevas Sánchez', 'Silvia Silva Mendoza', 'Unión de los gráficos']
 
 page = st.radio('Navegación', page_names, index = 0)
